@@ -1,0 +1,16 @@
+<map id="init_enemies" name="init_enemies">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,81,100,108"/>
+<area shape="rect" id="Node000002" href="$palclone_8c.html#ac12ab0cec4d6c82eec1beec215fbd5fe" title=" " alt="" coords="152,56,245,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,84,136,77,137,83,101,89"/>
+<area shape="rect" id="Node000005" href="$palclone_8c.html#a5b91d26ae14665a890a7592dd221a044" title=" " alt="" coords="153,5,244,32"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="78,78,146,42,155,37,158,42,149,46,81,83"/>
+<area shape="rect" id="Node000006" href="$helpers_8c.html#a4c829b7ee8b2d59b86bbe00aa3495888" title=" " alt="" coords="149,107,248,133"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="101,100,134,106,133,111,100,106"/>
+<area shape="rect" id="Node000007" href="$helpers_8c.html#a2e76bc4450fd3c1d313ba34afdc99f91" title=" " alt="" coords="148,157,249,184"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="81,106,149,143,158,147,155,152,146,148,78,111"/>
+<area shape="rect" id="Node000003" href="$helpers_8c.html#a18ba2758f6a022cf4d40e27bba8b5dee" title=" " alt="" coords="323,5,412,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="245,53,307,34,308,39,246,58"/>
+<area shape="rect" id="Node000004" href="$helpers_8c.html#a25edbfd8480c5abe5cc92de030f841a3" title=" " alt="" coords="297,56,437,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="246,67,281,67,281,72,246,72"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="244,16,307,16,307,21,244,21"/>
+</map>

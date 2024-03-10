@@ -1,0 +1,21 @@
+<map id="//wsl.localhost/Ubuntu/home/felix/TU/SLP/slps24g196/A1/palclone.c" name="//wsl.localhost/Ubuntu/home/felix/TU/SLP/slps24g196/A1/palclone.c">
+<area shape="rect" id="Node000001" title=" " alt="" coords="272,5,476,64"/>
+<area shape="rect" id="Node000002" href="$palclone_8h.html" title=" " alt="" coords="286,112,366,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="361,66,342,100,338,97,356,63"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="390,112,454,139"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="392,63,410,97,405,100,387,66"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,187,84,213"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="286,140,100,187,98,182,285,134"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="108,187,168,213"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="294,142,184,184,182,179,292,137"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="192,187,268,213"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="311,141,260,179,257,175,308,137"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="292,187,360,213"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="329,139,329,171,323,171,323,139"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="384,187,452,213"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="344,137,392,175,389,179,340,141"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="476,187,541,213"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="359,137,463,178,461,183,357,142"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="565,187,623,213"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="367,135,551,183,549,189,366,140"/>
+</map>

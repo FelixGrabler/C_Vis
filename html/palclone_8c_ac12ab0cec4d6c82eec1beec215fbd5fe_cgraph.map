@@ -1,0 +1,7 @@
+<map id="enemyBasic" name="enemyBasic">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,99,57"/>
+<area shape="rect" id="Node000002" href="$helpers_8c.html#a18ba2758f6a022cf4d40e27bba8b5dee" title=" " alt="" coords="172,5,262,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,34,157,25,157,30,99,40"/>
+<area shape="rect" id="Node000003" href="$helpers_8c.html#a25edbfd8480c5abe5cc92de030f841a3" title=" " alt="" coords="147,56,287,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="99,48,131,53,131,59,99,54"/>
+</map>

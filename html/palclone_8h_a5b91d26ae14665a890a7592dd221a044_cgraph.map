@@ -1,0 +1,5 @@
+<map id="enemyRock" name="enemyRock">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,96,32"/>
+<area shape="rect" id="Node000002" href="$helpers_8c.html#a18ba2758f6a022cf4d40e27bba8b5dee" title=" " alt="" coords="144,5,233,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,16,128,16,128,21,96,21"/>
+</map>

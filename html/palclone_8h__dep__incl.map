@@ -1,0 +1,9 @@
+<map id="//wsl.localhost/Ubuntu/home/felix/TU/SLP/slps24g196/A1/palclone.h" name="//wsl.localhost/Ubuntu/home/felix/TU/SLP/slps24g196/A1/palclone.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="233,5,437,64"/>
+<area shape="rect" id="Node000002" href="$helpers_8c.html" title=" " alt="" coords="5,112,209,171"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="260,73,171,114,169,109,258,68"/>
+<area shape="rect" id="Node000003" href="$main_8c.html" title=" " alt="" coords="233,112,437,171"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="338,80,338,112,332,112,332,80"/>
+<area shape="rect" id="Node000004" href="$palclone_8c.html" title=" " alt="" coords="461,112,665,171"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="412,68,501,109,499,114,410,73"/>
+</map>

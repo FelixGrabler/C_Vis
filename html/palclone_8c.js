@@ -1,0 +1,25 @@
+var palclone_8c =
+[
+    [ "enemyBasic", "palclone_8c.html#ac12ab0cec4d6c82eec1beec215fbd5fe", null ],
+    [ "enemyRock", "palclone_8c.html#a5b91d26ae14665a890a7592dd221a044", null ],
+    [ "getEnemyInfo", "palclone_8c.html#afe63f7e20dd805763bf041461567a49e", null ],
+    [ "init_enemies", "palclone_8c.html#a097cffa4bc19916862cdd32fa51cd034", null ],
+    [ "placePal", "palclone_8c.html#a64e156913a8080c4e7ee1a0a5798ad58", null ],
+    [ "playerLogic", "palclone_8c.html#a63d77d0ea5e7abcc01d066bc68c3c672", null ],
+    [ "start_game", "palclone_8c.html#ac12163f419a64ca811eea2a014448bca", null ],
+    [ "enemy_infos", "palclone_8c.html#ac9d36169e798cdf1f7ab223b04d2b02e", null ],
+    [ "game_map", "palclone_8c.html#a59da4835da5e23dbe60035d8df2cd977", null ],
+    [ "game_window", "palclone_8c.html#ae4894f90bc2a2c8971364ec8bf4aceb9", null ],
+    [ "is_pal_collected", "palclone_8c.html#ac5174f0bbd299305df6b9cb64a8b12d1", null ],
+    [ "lifepoints", "palclone_8c.html#a660431955c9d1165c2f17ed8b43c3f34", null ],
+    [ "number_enemies", "palclone_8c.html#aba57a69f2a44a7c284835badebe496b4", null ],
+    [ "number_rocks", "palclone_8c.html#a58bca99f87149516d79b4fef6d49b9aa", null ],
+    [ "pal_position", "palclone_8c.html#a64bd3f493475775193fac45f25c45819", null ],
+    [ "pal_tid", "palclone_8c.html#a359ab6b67debcbdf87fa427cdda59a5e", null ],
+    [ "player_position", "palclone_8c.html#a2ec929dc48ac92b629220607b5e6f77b", null ],
+    [ "player_tid", "palclone_8c.html#af810c908c737433e23523ddec1f7727d", null ],
+    [ "points", "palclone_8c.html#af7f8f4a4e39e09fdb5e9f02330ecabef", null ],
+    [ "rvalue_pal", "palclone_8c.html#a795a1be48852d1eabf20663d879c01da", null ],
+    [ "rvalue_player", "palclone_8c.html#a83f331cb649ba40049d679880545986a", null ],
+    [ "time1", "palclone_8c.html#a11c38a2803465dae53169c11059c21d5", null ]
+];
